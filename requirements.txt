@@ -1,0 +1,12 @@
+# Usar python na versão 3.9 caso dê algum erro de instalação
+tensorflow==2.18.0
+torch==2.7.0
+pandas
+numpy==1.26.4
+scikit-learn
+scipy
+matplotlib
+seaborn
+statsmodels
+pmdarima
+arch
