@@ -10,3 +10,4 @@ seaborn
 statsmodels
 pmdarima
 arch
+pygad
